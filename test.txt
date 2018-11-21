@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 <h1>Hello Git</h1>234567890
 
 11222
+=======
+Hello once more!
+Hello 2!!!
+Hello 3!
+Git config///
+Git new.
+>>>>>>> parent of 4103226... Third Lesson On Git
