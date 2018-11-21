@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-<h1>Hello Git</h1>234567890
+<h1>Hello Git</h1>234567890. Branch
+
 
 11222
 =======
