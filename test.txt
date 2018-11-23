@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <h1>Hello Git</h1>234567890. Branch
-
+New changs in dev.
 
 11222
 =======
